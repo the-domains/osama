@@ -1,0 +1,14 @@
+layout_spectrum: 0.2312158
+typography_spectrum: 0.1396752
+color:
+  saturation: 0.1125116
+  lightness: 0.9444073
+  brandStrength: 0.384609
+  rhythmicContrast: 0.9105142
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Osama
